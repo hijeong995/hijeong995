@@ -73,7 +73,13 @@ Here are some ideas to get you started:
 ---
 
 
-# 🧑Github
-[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hijeong995&show_icons=true&theme=transparent&rank_icon=github&line_height=28)](https://github.com/hijeong995)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hijeong995&size_weight=0.3&count_weight=0.3&layout=donut&theme=transparent)](https://github.com/hijeong995)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koboolean&size_weight=0.3&count_weight=0.3&hide=python&layout=donut&theme=transparent)-->
+# 🧑 Github
+
+<p align="center">
+  <a href="https://github.com/hijeong995">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=hijeong995&show_icons=true&theme=transparent&rank_icon=github&line_height=28" />
+  </a>
+  <a href="https://github.com/hijeong995">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hijeong995&size_weight=0.3&count_weight=0.3&layout=donut&theme=transparent" />
+  </a>
+</p>
